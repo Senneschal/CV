@@ -7,7 +7,7 @@
   background-size: cover;
   background-attachment: fixed;
   .particles-js-canvas-el {
-    height: 10vh !important;
+    height: 100vh !important;
   }
 }
 
@@ -29,7 +29,7 @@
     color: #FFF;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 76px;
+      font-size: 30px;
     }
   }
   .site-description {
