@@ -1,5 +1,5 @@
 # Jekyll cv
 
-Live demo at N-sennesael.com
+Live demo at http://n-sennesael.com/
 
 
